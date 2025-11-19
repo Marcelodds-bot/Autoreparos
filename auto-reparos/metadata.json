@@ -1,0 +1,7 @@
+{
+  "name": "Auto Reparos José Eduardo",
+  "description": "Aplicação de funilaria inteligente para visualização de reparos e orçamentos automáticos usando IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
